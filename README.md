@@ -1,4 +1,3 @@
 # First_FrontEnd_Challenge
- https://dineshts-coder.github.io/huddle-landing-page/
  
- https://dineshts-coder.github.io/Front_end_challenge/
+https://www.frontendmentor.io/solutions/a-page-to-scan-qr-code-by-using-html-and-css-HIFee3AQxb
